@@ -1,0 +1,17 @@
+﻿@page
+@using Packt.Shared
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model PacktFeatures.Pages.CustomersPageModel
+
+<div class="row">
+    <h1 class="display-2">Customers</h1>
+</div>
+<div class="row">
+   
+    @foreach(Customer customer in Model.Customers)
+    {
+        <div class="col-6">
+            <a href="shared/_Customer/@customer.CustomerID" ><h5>@customer.CompanyName - @customer.Country</h5></a>
+        </div>
+    }
+</div>

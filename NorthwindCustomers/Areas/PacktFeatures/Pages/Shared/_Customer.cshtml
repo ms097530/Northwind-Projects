@@ -1,0 +1,31 @@
+@page "{id}"
+@model PacktFeatures.Pages.CustomerPageModel
+
+<h1>Customer Details</h5>
+<div>
+    <dl class="dl-horizontal">
+        <dt>Customer ID</dt>
+        <dd>@Model.Customer.CustomerID</dd>
+        <dt>Company Name</dt>
+        <dd>@Model.Customer.CompanyName</dd>
+        <dt>Contact Name</dt>
+        <dd>@Model.Customer.ContactName</dd>
+        <dt>Contact Title</dt>
+        <dd>@Model.Customer.ContactTitle</dd>
+        <dt>Phone</dt>
+        <dd>@Model.Customer.Phone</dd>
+        <dt>Fax</dt>
+        <dd>@Model.Customer.Fax</dd>
+        <dt>Address</dt>
+        <dd>@Model.Customer.Address</dd>
+        <dt>City</dt>
+        <dd>@Model.Customer.City</dd>
+        <dt>Region</dt>
+        <dd>@Model.Customer.Region</dd>
+        <dt>Country</dt>
+        <dd>@Model.Customer.Country</dd>
+        <dt>Postal Code</dt>
+        <dd>@Model.Customer.PostalCode</dd>
+    </dl>
+   
+</div>

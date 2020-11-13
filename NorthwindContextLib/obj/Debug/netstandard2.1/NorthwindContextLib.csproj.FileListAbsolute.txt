@@ -1,0 +1,12 @@
+E:\Coding\PracticalApps_2\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.deps.json
+E:\Coding\PracticalApps_2\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.dll
+E:\Coding\PracticalApps_2\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.pdb
+E:\Coding\PracticalApps_2\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.dll
+E:\Coding\PracticalApps_2\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.pdb
+E:\Coding\PracticalApps_2\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csprojAssemblyReference.cache
+E:\Coding\PracticalApps_2\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.AssemblyInfoInputs.cache
+E:\Coding\PracticalApps_2\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.AssemblyInfo.cs
+E:\Coding\PracticalApps_2\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csproj.CoreCompileInputs.cache
+E:\Coding\PracticalApps_2\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csproj.CopyComplete
+E:\Coding\PracticalApps_2\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.dll
+E:\Coding\PracticalApps_2\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ZmiYwSXbatCmDBVejy0GPfnew9zieNujCNNoszRT3JTdKvzMc02DnA5kH8s2aDfYexEPCT6nt0WDYjIov6gWQ==",
+  "success": true,
+  "projectFilePath": "E:\\Coding\\PracticalApps_2\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
