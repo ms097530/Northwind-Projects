@@ -22,12 +22,18 @@ namespace NorthwindService.Controllers
         {
             _logger = logger;
         }
-
+        // GET /weatherforecast
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
+            return Get(5);
+        }
+        // GET /weatherforecast/7
+        [HttpGet("{days:int}")]
+        public IEnumerable<WeatherForecast> Get(int days)
+        {
             var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            return Enumerable.Range(1, days).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
                 TemperatureC = rng.Next(-20, 55),

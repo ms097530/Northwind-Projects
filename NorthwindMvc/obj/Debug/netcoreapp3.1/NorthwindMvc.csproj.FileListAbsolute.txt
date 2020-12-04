@@ -100,3 +100,4 @@ E:\Coding\PracticalApps_2\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\
 E:\Coding\PracticalApps_2\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ModelBinding.cshtml.g.cs
 E:\Coding\PracticalApps_2\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductsThatCostMoreThan.cshtml.g.cs
 E:\Coding\PracticalApps_2\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\CategoryDetail.cshtml.g.cs
+E:\Coding\PracticalApps_2\NorthwindMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
