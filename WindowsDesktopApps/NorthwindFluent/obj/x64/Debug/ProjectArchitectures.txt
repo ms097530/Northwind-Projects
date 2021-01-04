@@ -1,0 +1,1 @@
+E:\Coding\PracticalApps_2\WindowsDesktopApps\NorthwindFluent\NorthwindFluent.csproj;x64

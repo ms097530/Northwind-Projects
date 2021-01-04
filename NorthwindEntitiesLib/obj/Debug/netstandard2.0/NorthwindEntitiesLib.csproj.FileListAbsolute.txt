@@ -1,9 +1,9 @@
 E:\Coding\PracticalApps_2\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
 E:\Coding\PracticalApps_2\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
 E:\Coding\PracticalApps_2\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
-E:\Coding\PracticalApps_2\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
 E:\Coding\PracticalApps_2\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
 E:\Coding\PracticalApps_2\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
 E:\Coding\PracticalApps_2\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
 E:\Coding\PracticalApps_2\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
 E:\Coding\PracticalApps_2\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+E:\Coding\PracticalApps_2\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache

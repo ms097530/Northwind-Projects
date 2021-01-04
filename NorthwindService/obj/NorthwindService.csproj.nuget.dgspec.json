@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\PracticalApps_2\\northwindservice\\NorthwindService.csproj": {}
+    "E:\\Coding\\PracticalApps_2\\NorthwindService\\NorthwindService.csproj": {}
   },
   "projects": {
     "E:\\Coding\\PracticalApps_2\\NorthwindContextLib\\NorthwindContextLib.csproj": {
@@ -129,14 +129,14 @@
         }
       }
     },
-    "E:\\Coding\\PracticalApps_2\\northwindservice\\NorthwindService.csproj": {
+    "E:\\Coding\\PracticalApps_2\\NorthwindService\\NorthwindService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\PracticalApps_2\\northwindservice\\NorthwindService.csproj",
+        "projectUniqueName": "E:\\Coding\\PracticalApps_2\\NorthwindService\\NorthwindService.csproj",
         "projectName": "NorthwindService",
-        "projectPath": "E:\\Coding\\PracticalApps_2\\northwindservice\\NorthwindService.csproj",
+        "projectPath": "E:\\Coding\\PracticalApps_2\\NorthwindService\\NorthwindService.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\PracticalApps_2\\northwindservice\\obj\\",
+        "outputPath": "E:\\Coding\\PracticalApps_2\\NorthwindService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

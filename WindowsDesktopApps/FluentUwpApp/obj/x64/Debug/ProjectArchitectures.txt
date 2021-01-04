@@ -1,0 +1,1 @@
+E:\Coding\PracticalApps_2\WindowsDesktopApps\FluentUwpApp\FluentUwpApp.csproj;x64

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SHNOCG41HtrGshgzOgLvk4fwOHimiaqZ51iSyZbkAr61nbuSVAZhdSo3ERmNtZkvOS2mI+ndz45HSVUBpWeZig==",
+  "dgSpecHash": "rWrqkWDpGmM8NMf1feta4clA8AeTgcT8ZIkco3aoZam/xpGB4EKWS7Be22e3DaS7ZEXMcAE+DAgkMVFgIiY4dw==",
   "success": true,
-  "projectFilePath": "E:\\Coding\\PracticalApps_2\\northwindservice\\NorthwindService.csproj",
+  "projectFilePath": "E:\\Coding\\PracticalApps_2\\NorthwindService\\NorthwindService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
